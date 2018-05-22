@@ -1,0 +1,25 @@
+Antibiotic Resistance Test Data - Metadata
+
+File Name: New_test_data
+Data Format: .txt file
+
+Number of columns: 13
+Number of row (record) : 3029880
+Number of farms : 16837
+
+
+*** METADATA *** 
+
+Anno: Year (2002-2015)
+1: an administrative code
+2: an administrative code
+Data_inizio: Date of test start
+Data_fino: Date of test finished
+Medicine_type: Type of medicine (always antibiotic)
+Active_ingredient: The active ingredient which the test made for (119 different active ingredients)
+Farm_ID: The ID of farm (alpha-numeric)
+Result: Test result (R-I-S)
+Result_exp: Result explanation (Resistant-Intermediate-Sensible)
+Bacteria: The bacteria which the test made against (342 different bacteria)
+Animal_code: The code of animal kind
+Animal_kind: The kind of animal (157 different animal)
