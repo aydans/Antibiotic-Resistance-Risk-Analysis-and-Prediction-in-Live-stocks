@@ -1,4 +1,4 @@
-# datascience_thesis2018
+# AMR Risk Classification and Prediction in Live-Stocks
 This a repository created to organise a data science master thesis. 
 
 # Story
