@@ -1,4 +1,4 @@
-# AMR Risk Classification and Prediction in Live-Stocks
+# Antibiotic Resistance Risk Analysis and Prediction in Live-stocks
 This a repository created to organise a data science master thesis. 
 
 # Story
